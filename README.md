@@ -22,7 +22,7 @@ The objective of this project is to classify images into different categories us
 
 ## Dataset
 
-The dataset used consists of labeled images for multiple classes (e.g., cats, dogs, birds). Images are loaded and preprocessed using standard resizing, normalization, and augmentation techniques.
+The dataset used consists of labeled images for multiple classes (e.g., cats, dogs). Images are loaded and preprocessed using standard resizing, normalization, and augmentation techniques.
 
 ## CNN Architecture
 
